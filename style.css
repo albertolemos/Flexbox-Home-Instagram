@@ -33,8 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    max-height: 50rem;
-    
+    max-height: 50rem;    
 }
 
 .instagram-continue {
@@ -54,11 +53,11 @@ body {
     background-color: #ffffff;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgrey;
+    border: 1px solid lightgray;
 }
 
 .group:nth-child(1) {
-    min-width: 19rem;
+    min-height: 19rem;
 }
 
 .instagram-logo {
